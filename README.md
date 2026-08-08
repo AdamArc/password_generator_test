@@ -23,7 +23,11 @@ Kemudian kamu dapat menjalankan pengujian dari direktori utama proyek dengan per
 ```bash
 pytest
 ```
+## Penambahan Fitur
+- Tes untuk mengecek panjang password dan membandingkan 2 password
 
 ## Pembuat
 
 Kodland
+Marcell
+
